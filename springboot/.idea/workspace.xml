@@ -46,7 +46,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "5e53d3a4ba4f72aee996402acb2762a8"
   }
 }]]></component>
   <component name="RunManager" selected="Spring Boot.IpSpringBootStarterApplication">
@@ -268,6 +269,7 @@
       <updated>1673329603580</updated>
       <workItem from="1673329606915" duration="383000" />
       <workItem from="1673330006354" duration="641000" />
+      <workItem from="1673510427716" duration="23000" />
     </task>
     <servers />
   </component>
